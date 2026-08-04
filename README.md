@@ -1,6 +1,6 @@
 # 🛡️ TM Cinema Auto-Backup
 
-Yeh tera purana data hai (Last backup before adding: **The East Palace [Hindi & English] - S01 E01**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
+Yeh tera purana data hai (Last backup before adding: **The East Palace [Hindi & English] (New Series)**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
 
 ```json
 [
@@ -92,13 +92,8 @@ Yeh tera purana data hai (Last backup before adding: **The East Palace [Hindi & 
     "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/87?hash=662b20",
     "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/89?hash=29bf7d",
     "category": "Bollywood"
-  },
-  {
-    "isSeries": true,
-    "title": "The East Palace [Hindi & English]",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
-    "category": "KR Web Series",
-    "episodes": []
   }
+
 ]
+
 ```
