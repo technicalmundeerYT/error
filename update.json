@@ -93,6 +93,11 @@
     "title": "The East Palace [Hindi & English]",
     "thumbnail": "https://image.tmdb.org/t/p/w500/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
     "category": "KR Web Series",
-    "episodes": []
+    "episodes": [
+      {
+        "title": "S01 E01",
+        "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/91?hash=2dbf8f"
+      }
+    ]
   }
 ]
