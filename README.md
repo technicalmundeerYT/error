@@ -1,6 +1,6 @@
 # 🛡️ TM Cinema Auto-Backup
 
-Yeh tera purana data hai (Last backup before adding: **Beast (2026) BluRay [Hindi & English] 4K 1080p 720p**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
+Yeh tera purana data hai (Last backup before adding: **Hai Jawani Toh Ishq Hona Hai (2026) [Hindi] 4K 1080p 720p**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
 
 ```json
 [
@@ -78,6 +78,13 @@ Yeh tera purana data hai (Last backup before adding: **Beast (2026) BluRay [Hind
     "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/79?hash=70847c",
     "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/81?hash=b6a6f3",
     "category": "Punjabi"
+  },
+  {
+    "title": "Beast (2026) BluRay [Hindi & English] 4K 1080p 720p",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+    "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/83?hash=0bc54a",
+    "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/85?hash=af6af2",
+    "category": "Hollywood"
   }
 ]
 ```
