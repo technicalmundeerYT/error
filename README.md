@@ -1,6 +1,6 @@
 # 🛡️ TM Cinema Auto-Backup
 
-Yeh tera purana data hai (Last backup before adding: **Haye Ni Bebe Meriye (2026) Movie in Punjabi | HD**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
+Yeh tera purana data hai (Last backup before adding: **Beast (2026) BluRay [Hindi & English] 4K 1080p 720p**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
 
 ```json
 [
@@ -70,6 +70,13 @@ Yeh tera purana data hai (Last backup before adding: **Haye Ni Bebe Meriye (2026
     "thumbnail": "https://image.tmdb.org/t/p/w500/g3EpAFlNGqkYxkw8cHOANzi8u1.jpg",
     "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/71?hash=b5c735",
     "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/73?hash=067a8e",
+    "category": "Punjabi"
+  },
+  {
+    "title": "Haye Ni Bebe Meriye (2026) Movie in Punjabi | HD",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/ymnx4qjPgi7pSpFaUou7ENRLqte.jpg",
+    "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/79?hash=70847c",
+    "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/81?hash=b6a6f3",
     "category": "Punjabi"
   }
 ]
