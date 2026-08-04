@@ -1,6 +1,6 @@
 # 🛡️ TM Cinema Auto-Backup
 
-Yeh tera purana data hai (Last backup before adding: **The East Palace [Hindi & English] - S01 E04**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
+Yeh tera purana data hai (Last backup before adding: **The East Palace [Hindi & English] - S01 E05**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
 
 ```json
 [
@@ -113,6 +113,11 @@ Yeh tera purana data hai (Last backup before adding: **The East Palace [Hindi & 
         "title": "S01 E03",
         "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/100?hash=b080e4",
         "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/102?hash=97465a"
+      },
+      {
+        "title": "S01 E04",
+        "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/105?hash=7d8962",
+        "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/106?hash=3d45fd"
       }
     ]
   }
