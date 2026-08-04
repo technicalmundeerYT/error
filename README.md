@@ -1,6 +1,6 @@
 # 🛡️ TM Cinema Auto-Backup
 
-Yeh tera purana data hai (Last backup before adding: **Governor (2026) [Hindi] 1080p 720p**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
+Yeh tera purana data hai (Last backup before adding: **Dhamaal 4 (2026) [Hindi] 1080p 720p**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
 
 ```json
 [
@@ -147,6 +147,14 @@ Yeh tera purana data hai (Last backup before adding: **Governor (2026) [Hindi] 1
     "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/127?hash=22b7f5",
     "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/129?hash=6018cf",
     "category": "Hollywood",
+    "isSeries": false
+  },
+  {
+    "title": "Governor (2026) [Hindi] 1080p 720p",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/q42gmk5JJAWqng5eBYsRVZEW0ak.jpg",
+    "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/131?hash=948ad1",
+    "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/133?hash=d4cf63",
+    "category": "Bollywood",
     "isSeries": false
   }
 ]
