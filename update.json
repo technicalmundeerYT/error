@@ -39,12 +39,7 @@
     "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/61?hash=382cec",
     "category": "South"
   },
-  {
-    "title": "1",
-    "thumbnail": "",
-    "1080p": "",
-    "category": "Bollywood"
-  },
+  
   {
     "title": "Viyaah Kartaare Da (2026) Full Movie in Punjabi",
     "thumbnail": "https://image.tmdb.org/t/p/w1280/oypl2SgvWqPhPGERB4n7Dhml3og.jpg",
@@ -66,10 +61,5 @@
     "category": "Punjabi",
     "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/73?hash=067a8e"
   },
-  {
-    "title": "",
-    "thumbnail": "",
-    "1080p": "",
-    "category": "Bollywood"
-  }
+
 ]
