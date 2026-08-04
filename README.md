@@ -1,6 +1,6 @@
 # 🛡️ TM Cinema Auto-Backup
 
-Yeh tera purana data hai (Last backup before adding: **Evil Dead Burn (2026) [Hindi & English] 4K 1080p 720p**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
+Yeh tera purana data hai (Last backup before adding: **Governor (2026) [Hindi] 1080p 720p**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
 
 ```json
 [
@@ -140,6 +140,14 @@ Yeh tera purana data hai (Last backup before adding: **Evil Dead Burn (2026) [Hi
         "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/124?hash=71fffa"
       }
     ]
+  },
+  {
+    "title": "Evil Dead Burn (2026) [Hindi & English] 4K 1080p 720p",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/pcQnHkBvQ62kqRALagpoZrEu0K.jpg",
+    "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/127?hash=22b7f5",
+    "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/129?hash=6018cf",
+    "category": "Hollywood",
+    "isSeries": false
   }
 ]
 ```
