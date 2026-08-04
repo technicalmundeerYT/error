@@ -1,6 +1,6 @@
 # 🛡️ TM Cinema Auto-Backup
 
-Yeh tera purana data hai (Last backup before adding: **Hai Jawani Toh Ishq Hona Hai (2026) [Hindi] 4K 1080p 720p**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
+Yeh tera purana data hai (Last backup before adding: **The East Palace [Hindi & English] S01 E01**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
 
 ```json
 [
@@ -85,6 +85,13 @@ Yeh tera purana data hai (Last backup before adding: **Hai Jawani Toh Ishq Hona 
     "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/83?hash=0bc54a",
     "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/85?hash=af6af2",
     "category": "Hollywood"
+  },
+  {
+    "title": "Hai Jawani Toh Ishq Hona Hai (2026) [Hindi] 4K 1080p 720p",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
+    "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/87?hash=662b20",
+    "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/89?hash=29bf7d",
+    "category": "Bollywood"
   }
 ]
 ```
