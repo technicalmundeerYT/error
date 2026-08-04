@@ -96,7 +96,8 @@
     "episodes": [
       {
         "title": "S01 E01",
-        "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/91?hash=2dbf8f"
+        "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/91?hash=2dbf8f",
+        "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/91?hash=2dbf8f",
       }
     ]
   }
