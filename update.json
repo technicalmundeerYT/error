@@ -159,5 +159,13 @@
     "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/137?hash=ef6977",
     "category": "Bollywood",
     "isSeries": false
+  },
+  {
+    "title": "Ikka 2026 [Hindi] 1080p & 720p",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/46tLpxaUtCYnGzKH1DpCOSqR449.jpg",
+    "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/139?hash=54a804",
+    "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/141?hash=54a804",
+    "category": "Bollywood",
+    "isSeries": false
   }
 ]
