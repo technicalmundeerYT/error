@@ -1,6 +1,6 @@
 # 🛡️ TM Cinema Auto-Backup
 
-Yeh tera purana data hai (Last backup before adding: **The East Palace [Hindi & English] - S01 E08**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
+Yeh tera purana data hai (Last backup before adding: **Evil Dead Burn (2026) [Hindi & English] 4K 1080p 720p**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
 
 ```json
 [
@@ -133,6 +133,11 @@ Yeh tera purana data hai (Last backup before adding: **The East Palace [Hindi & 
         "title": "S01 E07",
         "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/121?hash=a1b319",
         "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/122?hash=fc7688"
+      },
+      {
+        "title": "S01 E08",
+        "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/123?hash=f812a3",
+        "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/124?hash=71fffa"
       }
     ]
   }
