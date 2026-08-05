@@ -1,6 +1,6 @@
 # 🛡️ TM Cinema Auto-Backup
 
-Yeh tera purana data hai (Last backup before adding: **India’s Got Latent (Season 2) [NETFLIX] 1080p 720p HD - BONUS CLiP OF E04**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
+Yeh tera purana data hai (Last backup before adding: **Free Ghost Train (2024) (Hindi + Korean) Dual Audio**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
 
 ```json
 [
@@ -198,6 +198,11 @@ Yeh tera purana data hai (Last backup before adding: **India’s Got Latent (Sea
         "title": "S02 E04",
         "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/153?hash=4988c7",
         "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/154?hash=03e2a1"
+      },
+      {
+        "title": "BONUS CLiP OF E04",
+        "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/159?hash=4d500a",
+        "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/159?hash=4d500a"
       }
     ]
   }
