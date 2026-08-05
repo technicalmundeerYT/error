@@ -1,6 +1,6 @@
 # 🛡️ TM Cinema Auto-Backup
 
-Yeh tera purana data hai (Last backup before adding: **Free Ghost Train (2024) (Hindi + Korean) Dual Audio**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
+Yeh tera purana data hai (Last backup before adding: **72 Hours (2026) (Hindi + English) Dual Audio Hollywood Movie HD**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
 
 ```json
 [
@@ -205,6 +205,14 @@ Yeh tera purana data hai (Last backup before adding: **Free Ghost Train (2024) (
         "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/159?hash=4d500a"
       }
     ]
+  },
+  {
+    "title": "Free Ghost Train (2024) (Hindi + Korean) Dual Audio",
+    "thumbnail": "https://filmypark.xyz/wp-content/uploads/2026/07/1000065521.webp",
+    "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/165?hash=85763c",
+    "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/166?hash=a0c726",
+    "category": "Hollywood",
+    "isSeries": false
   }
 ]
 ```
