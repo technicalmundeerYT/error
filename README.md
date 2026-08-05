@@ -1,6 +1,6 @@
 # 🛡️ TM Cinema Auto-Backup
 
-Yeh tera purana data hai (Last backup before adding: **India’s Got Latent (Season 2) [NETFLIX] 1080p 720p HD - S02 E02**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
+Yeh tera purana data hai (Last backup before adding: **India’s Got Latent (Season 2) [NETFLIX] 1080p 720p HD - S02 E03**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
 
 ```json
 [
@@ -183,6 +183,11 @@ Yeh tera purana data hai (Last backup before adding: **India’s Got Latent (Sea
         "title": "S02 E01",
         "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/143?hash=6d8655",
         "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/144?hash=d43e5a"
+      },
+      {
+        "title": "S02 E02",
+        "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/147?hash=a74eca",
+        "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/148?hash=7cb917"
       }
     ]
   }
