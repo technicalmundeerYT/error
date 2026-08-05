@@ -167,5 +167,18 @@
     "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/141?hash=54a804",
     "category": "Bollywood",
     "isSeries": false
+  },
+  {
+    "isSeries": true,
+    "title": "India\u2019s Got Latent (Season 2) [NETFLIX] 1080p 720p HD",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg",
+    "category": "Shows + Series",
+    "episodes": [
+      {
+        "title": "S02 E01",
+        "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/143?hash=6d8655",
+        "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/144?hash=d43e5a"
+      }
+    ]
   }
 ]
