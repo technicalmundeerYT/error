@@ -1,6 +1,6 @@
 # 🛡️ TM Cinema Auto-Backup
 
-Yeh tera purana data hai (Last backup before adding: **Ikka 2026 [Hindi] 1080p & 720p**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
+Yeh tera purana data hai (Last backup before adding: **India’s Got Latent (Season 2) [NETFLIX] 1080p 720p HD (New Series)**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
 
 ```json
 [
@@ -162,6 +162,14 @@ Yeh tera purana data hai (Last backup before adding: **Ikka 2026 [Hindi] 1080p &
     "thumbnail": "https://catimages.org/images/2026/07/10/Dhamaal-4-2026-Hindi-CAMRip-Full-Movie-HDHub4uc8236fe76b3b7dce.jpg",
     "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/135?hash=1bb544",
     "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/137?hash=ef6977",
+    "category": "Bollywood",
+    "isSeries": false
+  },
+  {
+    "title": "Ikka 2026 [Hindi] 1080p & 720p",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/46tLpxaUtCYnGzKH1DpCOSqR449.jpg",
+    "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/139?hash=54a804",
+    "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/141?hash=54a804",
     "category": "Bollywood",
     "isSeries": false
   }
