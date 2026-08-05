@@ -208,5 +208,13 @@
     "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/166?hash=a0c726",
     "category": "Hollywood",
     "isSeries": false
+  },
+  {
+    "title": "72 Hours (2026) (Hindi + English) Dual Audio Hollywood Movie HD",
+    "thumbnail": "https://image.tmdb.org/t/p/w400/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+    "1080p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/168?hash=fadf9a",
+    "720p": "https://tg-filestreambot-production-d9d3.up.railway.app/stream/170?hash=f58c7c",
+    "category": "Hollywood",
+    "isSeries": false
   }
 ]
