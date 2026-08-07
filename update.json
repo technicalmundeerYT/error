@@ -204,16 +204,16 @@
   {
     "title": "Ghost Train (2024) (Hindi + Korean) Dual Audio",
     "thumbnail": "https://image.tmdb.org/t/p/w1280/rOTXYy5ScOHdaC2YMQowVwQex5s.jpg",
-    "1080p": "http://51.79.161.102:8080/stream/16?hash=85763c",
-    "720p": "http://51.79.161.102:8080/stream/19?hash=a0c726",
+    "1080p": "http://51.79.161.102:8080/stream/79?hash=85763c",
+    "720p": "http://51.79.161.102:8080/stream/80?hash=a0c726",
     "category": "Hollywood",
     "isSeries": false
   },
   {
     "title": "72 Hours (2026) (Hindi + English) Dual Audio Hollywood Movie HD",
     "thumbnail": "https://image.tmdb.org/t/p/w400/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
-    "1080p": "http://51.79.161.102:8080/stream/12?hash=fadf9a",
-    "720p": "http://51.79.161.102:8080/stream/9?hash=f58c7c",
+    "1080p": "http://51.79.161.102:8080/stream/82?hash=fadf9a",
+    "720p": "http://51.79.161.102:8080/stream/81?hash=f58c7c",
     "category": "Hollywood",
     "isSeries": false
   }
