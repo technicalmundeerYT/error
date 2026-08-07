@@ -216,5 +216,13 @@
     "720p": "http://51.79.161.102:8080/stream/81?hash=f58c7c",
     "category": "Hollywood",
     "isSeries": false
+  },
+  {
+    "title": "Chal Mera Putt 4 [Punjabi] 4K 1080p 720p",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/e9iBBjh3DvOZB91aNU8l8Gf1zfx.jpg",
+    "1080p": "http://51.79.161.102:8080/stream/87?hash=2ab634",
+    "720p": "http://51.79.161.102:8080/stream/88?hash=5e2d30",
+    "category": "Punjabi",
+    "isSeries": false
   }
 ]
