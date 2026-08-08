@@ -1,6 +1,6 @@
 # 🛡️ TM Cinema Auto-Backup
 
-Yeh tera purana data hai (Last backup before adding: **Musafir Cafe (Season 1) - S01 E06**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
+Yeh tera purana data hai (Last backup before adding: **Musafir Cafe (Season 1) - S01 E07**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
 
 ```json
 [
@@ -268,6 +268,11 @@ Yeh tera purana data hai (Last backup before adding: **Musafir Cafe (Season 1) -
         "title": "S01 E05",
         "1080p": "http://51.79.161.102:8080/stream/111?hash=a4f97a",
         "720p": "http://51.79.161.102:8080/stream/112?hash=ea390d"
+      },
+      {
+        "title": "S01 E06",
+        "1080p": "http://51.79.161.102:8080/stream/115?hash=299df6",
+        "720p": "http://51.79.161.102:8080/stream/116?hash=8aaf34"
       }
     ]
   }
