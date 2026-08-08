@@ -1,6 +1,6 @@
 # 🛡️ TM Cinema Auto-Backup
 
-Yeh tera purana data hai (Last backup before adding: **Musafir Cafe (Season 1) (New Series)**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
+Yeh tera purana data hai (Last backup before adding: **Musafir Cafe (Season 1) - S01 E02**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
 
 ```json
 [
@@ -237,6 +237,19 @@ Yeh tera purana data hai (Last backup before adding: **Musafir Cafe (Season 1) (
     "720p": "http://51.79.161.102:8080/stream/92?hash=e4f49a",
     "category": "Bollywood",
     "isSeries": false
+  },
+  {
+    "isSeries": true,
+    "title": "Musafir Cafe (Season 1)",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/5QDzh7Ugh7f8kx1OJ4KUuCgY2t4.jpg",
+    "category": "Shows + Series",
+    "episodes": [
+      {
+        "title": "S01 E01",
+        "1080p": "http://51.79.161.102:8080/stream/95?hash=9ca9bb",
+        "720p": "http://51.79.161.102:8080/stream/96?hash=25bc2d"
+      }
+    ]
   }
 ]
 ```
