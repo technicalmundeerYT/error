@@ -1,6 +1,6 @@
 # 🛡️ TM Cinema Auto-Backup
 
-Yeh tera purana data hai (Last backup before adding: **Chal Mera Putt 4 [Punjabi] 4K 1080p 720p**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
+Yeh tera purana data hai (Last backup before adding: **Main Vaapas Aaunga (2026) [Hindi] 4K 1080p 720p**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
 
 ```json
 [
@@ -220,6 +220,14 @@ Yeh tera purana data hai (Last backup before adding: **Chal Mera Putt 4 [Punjabi
     "1080p": "http://51.79.161.102:8080/stream/82?hash=fadf9a",
     "720p": "http://51.79.161.102:8080/stream/81?hash=f58c7c",
     "category": "Hollywood",
+    "isSeries": false
+  },
+  {
+    "title": "Chal Mera Putt 4 [Punjabi] 4K 1080p 720p",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/e9iBBjh3DvOZB91aNU8l8Gf1zfx.jpg",
+    "1080p": "http://51.79.161.102:8080/stream/90?hash=11762e",
+    "720p": "http://51.79.161.102:8080/stream/88?hash=5e2d30",
+    "category": "Punjabi",
     "isSeries": false
   }
 ]
