@@ -1,6 +1,6 @@
 # 🛡️ TM Cinema Auto-Backup
 
-Yeh tera purana data hai (Last backup before adding: **Main Vaapas Aaunga (2026) [Hindi] 4K 1080p 720p**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
+Yeh tera purana data hai (Last backup before adding: **Musafir Cafe (Season 1) (New Series)**). Galti hone par yahan se pura JSON block copy karke wapas paste kar lena.
 
 ```json
 [
@@ -229,7 +229,14 @@ Yeh tera purana data hai (Last backup before adding: **Main Vaapas Aaunga (2026)
     "720p": "http://51.79.161.102:8080/stream/88?hash=5e2d30",
     "category": "Punjabi",
     "isSeries": false
+  },
+  {
+    "title": "Main Vaapas Aaunga (2026) [Hindi] 4K 1080p 720p",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/sOkoBHoizeiqKLyqqgrBHjia5FH.jpg",
+    "1080p": "http://51.79.161.102:8080/stream/91?hash=67537d",
+    "720p": "http://51.79.161.102:8080/stream/92?hash=e4f49a",
+    "category": "Bollywood",
+    "isSeries": false
   }
 ]
-
 ```
