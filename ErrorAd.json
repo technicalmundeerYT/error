@@ -1,7 +1,6 @@
 {
   "showAd": true,
-  "adType": "network", 
-  "admobUnitId": "ca-app-pub-3273030255910624/9567085553",
+  "adType": "custom",
   "imageUrl": "https://i.imgur.com/your-ad-banner.jpg",
   "clickUrl": "https://youtube.com/@TechnicalMundeerYT",
   "timerSeconds": 5
