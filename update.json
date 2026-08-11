@@ -1,5 +1,5 @@
 {
   "apiConfig": {
-    "secureApiUrl": "http://51.79.161.102/get_movies.php"
+    "secureApiUrl": "https://tmcinema.duckdns.org/get_movies.php"
   }
 }
